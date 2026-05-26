@@ -8,7 +8,7 @@ The model classifies images into two categories:
 
 This project uses **transfer learning**, **fine-tuning**, and modern computer vision techniques to achieve strong performance on wildfire detection tasks.
 
----
+
 
 ## 📌 Project Overview
 
@@ -25,7 +25,7 @@ The notebook includes:
 - Evaluation metrics
 - Prediction on test images
 
----
+
 
 ## 🧠 Model Used
 
@@ -33,7 +33,7 @@ The notebook includes:
 - **Framework:** PyTorch
 - **Technique:** Transfer Learning + Fine-Tuning
 
----
+
 
 ## 📂 Dataset Structure
 
